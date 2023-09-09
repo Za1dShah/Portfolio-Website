@@ -1,0 +1,75 @@
+body {
+    background-color: #031D44;
+    font-family: Arial, Helvetica;
+}
+
+/* .header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 1px;
+} */
+
+.logo {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 10px;
+    border-radius: 30px;
+}
+
+.header-options a{
+    float: right;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 19px;
+    line-height: 10px;
+    border-radius: 30px;
+}
+
+
+.intro {
+    text-align: left;
+    color: rgb(206, 214, 243);
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 36%;
+    left: 20%;
+}
+.intro-name {
+    text-align: left;
+    color: rgb(206, 214, 243);
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: bold;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+.intro-job {
+    text-align: left;
+    color: rgb(138, 146, 173);
+    text-decoration: none;
+    font-size: 60px;
+    position: absolute;
+    font-weight: bold;
+    top: 48%;
+    left: 20%;
+}
+
+.intro-about {
+    text-align: left;
+    color: rgb(138, 146, 173);
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    font-weight: bold;
+    top: 57%;
+    left: 20%;
+}
+
